@@ -1,4 +1,0 @@
-/project-folder
-├── app.py
-├── top_spotify_daily.csv
-└── templates/
